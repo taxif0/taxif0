@@ -177,6 +177,6 @@ Interested in bringing TaxiF to your city? We're always looking for strategic pa
 
 <br/>
 
-© 2022-present TaxiF Corporation. All rights reserved.
+© 2020-present TaxiF Corporation. All rights reserved.
 
 </div>
